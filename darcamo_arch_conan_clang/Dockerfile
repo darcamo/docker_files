@@ -1,6 +1,6 @@
 FROM darcamo/archconan
 
-ENV LLVM_VERSION=6.0 \
+ENV LLVM_VERSION=8 \
 CC=clang \
 CXX=clang++ \
 CMAKE_C_COMPILER=clang \
